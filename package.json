@@ -1,5 +1,5 @@
 {
-  "name": "knowitnodejsapp",
+  "name": "nodejsapp",
   "version": "1.0.0",
   "description": "Simple Node js app",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaviTambade/KnowitNodejsapp.git"
+    "url": "git+https://github.com/mohits1998/Northwind.git"
   },
-  "author": "Ravi",
+  "author": "Mohit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RaviTambade/KnowitNodejsapp/issues"
+    "url": "https://github.com/mohits1998/Northwind/issues"
   },
-  "homepage": "https://github.com/RaviTambade/KnowitNodejsapp#readme",
+  "homepage": "https://github.com/mohits1998/Northwind#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
